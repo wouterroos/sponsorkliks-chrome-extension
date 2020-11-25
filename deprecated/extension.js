@@ -118,7 +118,7 @@ namen[0] = "1-800-BASKETS.COM";
 	namen[66] = "Biotuinkassen.nl";
 	namen[67] = "Bloembollenkopen.nl";
 	namen[68] = "Blokker";
-	namen[69] = "bobex.be België";
+	namen[69] = "bobex.be Belgiï¿½";
 	namen[70] = "Bodylab.nl";
 	namen[71] = "Bodystore.nl";
 	namen[72] = "BoeketCadeau.nl";
@@ -395,7 +395,7 @@ namen[0] = "1-800-BASKETS.COM";
 	namen[343] = "Muurmode.nl";
 	namen[344] = "Muurteksten";
 	namen[345] = "Mwave.com";
-	namen[346] = "My M&M’s";
+	namen[346] = "My M&Mï¿½s";
 	namen[347] = "myphotobook.nl";
 	namen[348] = "Myxlshop.nl";
 	namen[349] = "NA-KD";
@@ -456,7 +456,7 @@ namen[0] = "1-800-BASKETS.COM";
 	namen[404] = "Posters.nl";
 	namen[405] = "PosterXXL";
 	namen[406] = "PostNL";
-	namen[407] = "Prénatal";
+	namen[407] = "Prï¿½natal";
 	namen[408] = "PrintCountry.com";
 	namen[409] = "Printit";
 	namen[410] = "Printvoordeelshop.nl";
@@ -603,7 +603,7 @@ namen[0] = "1-800-BASKETS.COM";
 	namen[551] = "Wandel-Geest";
 	namen[552] = "Wantsandneeds.nl";
 	namen[553] = "Warentuin.nl";
-	namen[554] = "Waschbär";
+	namen[554] = "Waschbï¿½r";
 	namen[555] = "Wasmachine.nl";
 	namen[556] = "Waterbedkampioen";
 	namen[557] = "Watzalikkopen.nl";
@@ -646,7 +646,7 @@ namen[0] = "1-800-BASKETS.COM";
 				
 				if (confirm(namen[i] + " bezoeken via Sponsorkliks, en met uw aankoop het Rotterdamsch Studenten Gezelschap  financieel steunen?"))
 				{
-					document.location = "http://www.sponsorkliks.com/partners.php?club=3831&v=website&shopsearch=" + encodeURI(namen[i]) + "&cn=NL&ln=nl";
+					document.location = "http://www.sponsorkliks.com/partners.php?club=8203&v=website&shopsearch=" + encodeURI(namen[i]) + "&cn=NL&ln=nl";
 				}
 			}
 	  	break;

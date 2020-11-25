@@ -20,10 +20,9 @@
       "16": "icons/icon16.png",
       "48": "icons/icon48.png"
    },
-   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqGdFh0YE8KRIdspwrzS/LqGWGXEF2Q6MGO2ybmSK64K8qByw+CswZ+jL9MWVXochFq8voWysuYoo82HL5ZkhskOau53gW2QGo2ajTJogaScuGmkHNaGv2ucJLWufU1j/nkM6kpxc8erI2InZYi344SfvCbKnr3C5PWeIZtwS7etVU+gB4XTDACmmN6M69u8J03+qz8qq0nE5lK40pvpfKOEJoa/A3YwOj+BEQj5UUoYXEEJ0ByjWq4GBlcICfz3iQQTY1FpQajyAB9Yy2mSRq5KPiqz+3/1zG97000vi9lNdghXzL+W1aUm29gNrcVVkuEK6iIQN7TvWuGPCB9bLywIDAQAB",
    "manifest_version": 2,
    "name": "Fanfare Sint Barbara - Sponsorkliks (bèta)",
-   "permissions": [ "http://*/*", "https://*/*", "tabs", "cookies", "notifications", "contextMenus", "webNavigation", "webRequest", "webRequestBlocking", "unlimitedStorage", "storage" ],
+   "permissions": [ "http://*/*", "https://*/*", "activeTab", "cookies", "notifications", "contextMenus", "webNavigation", "webRequest", "webRequestBlocking", "unlimitedStorage", "storage" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "0.0.1"
+   "version": "0.0.3"
 }
