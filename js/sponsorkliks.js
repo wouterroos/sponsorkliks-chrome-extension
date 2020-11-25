@@ -99,7 +99,7 @@ $( document ).ready(function() {
 		//console.log("test: " + document.location.href.toLowerCase() + " | " +  sites[i].toLowerCase());
 	  if (document.location.hostname.toLowerCase().indexOf(sites[i].toLowerCase()) > -1) //&& document.location.href.toLowerCase().indexOf(".sponsorkliks") <= -1)
 	  {
-	  	hit = getCookie("sponsorkliks_"+shopids[i]);
+	  	hit = null; //getCookie("sponsorkliks_"+shopids[i]);
 	  	//console.log("HIT: " + hit);
 	  	if (hit === null)
 		{
@@ -132,7 +132,7 @@ $( document ).ready(function() {
 			});
 
 			$.notify.defaults({className: "warn", autoHideDelay: 10000,});
-			$.notify({title:"Steun " + clubNaam, button:names[i] + " bezoeken via Sponsorkliks", title2: "Groet, CCB & JvU"},{autoHide: true, style: 'bootstrap'});
+			$.notify({title:"Steun " + clubNaam, button:names[i] + " bezoeken via Sponsorkliks", title2: "Bedankt!"},{autoHide: true, style: 'bootstrap'});
 		}
 	  	break;
 	  }
